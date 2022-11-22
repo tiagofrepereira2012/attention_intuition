@@ -1,5 +1,8 @@
 # Attention mechanism - intuition
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tiagofrepereira2012/attention_intuition/blob/main/1.attention_intuition.ipynb)
+
+
 The lecture notes on Deep Learning from [Francois Fleuret](https://fleuret.org/dlc/materials/dlc-handout-13-2-attention-mechanisms.pdf) contain a very nice intuition on why and where the attention mechanism works better than conv nets.
 
 In the example, he considers a toy sequence-to-sequence problem with triangular and rectangular shapes with random heights as input.
