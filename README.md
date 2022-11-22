@@ -16,7 +16,7 @@ As we can see, with the exact training procedure, the attention mechanism is abl
 The conv net model's poor performance is expected due to its inability to look far away the input signal to learn the task.
 There are plenty of mechanisms we can equip the conv net with to make it work better (more layers, fully connected layers, ...), but the attention mechanism is a very simple and elegant solution to this problem.
 
-I hope you find this notebook useful and that Professors Fleuret don't mind me using their example.
+I hope you find this notebook useful and that Professor Fleuret don't mind me using his example.
 
 
 ![](images/loss.png)
